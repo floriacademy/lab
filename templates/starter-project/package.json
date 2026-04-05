@@ -1,0 +1,13 @@
+{
+  "name": "mon-projet",
+  "version": "1.0.0",
+  "description": "Mon projet FLORIA Academy",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Ajoutez vos tests ici\" && exit 0",
+    "lint": "echo \"Ajoutez un linter (ex: eslint)\" && exit 0"
+  },
+  "keywords": ["floria", "academy"],
+  "license": "MIT"
+}

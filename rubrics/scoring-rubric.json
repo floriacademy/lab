@@ -1,0 +1,62 @@
+{
+  "version": "1.0",
+  "total_points": 100,
+  "passing_score": 60,
+  "criteria": [
+    {
+      "name": "code_quality",
+      "points": 25,
+      "description": "Nommage clair, structure logique, DRY, SOLID, pas de code mort",
+      "levels": {
+        "0-5": "Code illisible, pas de structure",
+        "6-12": "Structure basique, nommage inconsistant",
+        "13-19": "Bonne structure, quelques ameliorations possibles",
+        "20-25": "Excellent, propre, maintenable"
+      }
+    },
+    {
+      "name": "documentation",
+      "points": 20,
+      "description": "README complet, commentaires utiles, JSDoc si applicable",
+      "levels": {
+        "0-5": "Pas de README ou README vide",
+        "6-10": "README minimal, pas de commentaires",
+        "11-15": "README correct, quelques commentaires",
+        "16-20": "README excellent, bien documente"
+      }
+    },
+    {
+      "name": "tests",
+      "points": 20,
+      "description": "Tests presents, passent, bonne couverture",
+      "levels": {
+        "0-5": "Aucun test",
+        "6-10": "Quelques tests basiques",
+        "11-15": "Tests corrects, couverture partielle",
+        "16-20": "Tests complets, bonne couverture"
+      }
+    },
+    {
+      "name": "security",
+      "points": 15,
+      "description": "Pas de secrets exposes, deps a jour, input validation",
+      "levels": {
+        "0-3": "Secrets dans le code, deps vulnerables",
+        "4-7": "Pas de secrets mais deps pas a jour",
+        "8-11": "Securise mais ameliorations possibles",
+        "12-15": "Excellent, aucun probleme detecte"
+      }
+    },
+    {
+      "name": "functionality",
+      "points": 20,
+      "description": "Le projet fait ce qu'il promet, fonctionne correctement",
+      "levels": {
+        "0-5": "Ne fonctionne pas",
+        "6-10": "Fonctionne partiellement",
+        "11-15": "Fonctionne, quelques bugs mineurs",
+        "16-20": "Fonctionne parfaitement, bien fini"
+      }
+    }
+  ]
+}
