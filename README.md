@@ -2,7 +2,7 @@
 
 **L'eclosion de votre reussite**
 
-Bienvenue dans le laboratoire FLORIA Academy. Cet espace est dedie aux talents IT du Maroc et d'Afrique francophone pour realiser, soumettre et faire valider leurs projets par notre mentor IA.
+Bienvenue dans le laboratoire FLORIA Academy. Cet espace est dedie aux talents IT pour realiser, soumettre et faire valider leurs projets par notre mentor IA.
 
 ## Comment ca marche
 
@@ -41,12 +41,8 @@ Score minimum pour validation : **60/100**
 
 ## Domaines acceptes
 
-Cloud, Infrastructure, Developpement Web, Mobile, Data, IA/ML, Design UX/UI, Architecture, Gestion de Projet, Securite, DevOps.
-
-## Les 16 Principes FLORIA
-
-Chaque projet doit etre : **Securise, Fiable, Honnete, Utile, Objectif, Coherent, Tres simple, Intuitif, Precis, Complet, Performant, Autonome, Parametrable, Evolutif, Accessible et Predictif.**
+Developpement Web, Mobile, Data, IA/ML, Design UX/UI, Cloud, DevOps, et plus encore.
 
 ---
 
-*FLORIA Academy — Un projet de CYS SOLUTIONS SARL AU — [floria.ma](https://floria.ma)*
+*FLORIA Academy — [floria.ma](https://floria.ma)*
